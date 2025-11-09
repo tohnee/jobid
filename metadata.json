@@ -1,0 +1,5 @@
+{
+  "name": "Talent-Bid: AI Profile Analyzer",
+  "description": "An AI-powered tool for elite talent. Upload a professional asset like a diagram or certificate for AI analysis, and query our knowledge base for up-to-date, grounded information on any topic.",
+  "requestFramePermissions": []
+}
